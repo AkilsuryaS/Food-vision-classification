@@ -1,5 +1,7 @@
 ## Food Vision Project
 
+![](https://github.com/AkilsuryaS/Food-vision-classification/blob/main/images/Cover%20pic.jpg)
+
 ### Overview
 
 The Food Vision project leverages the Food101 dataset, a comprehensive collection of 101,000 images spanning 101 distinct food categories, to build an image classification model. The objective is to accurately classify images of various food items using advanced deep learning techniques.
